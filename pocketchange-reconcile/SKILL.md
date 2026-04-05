@@ -1,3 +1,8 @@
+---
+name: pocketchange-reconcile
+description: On-demand reconciliation of pocketchange memory. Use only when explicitly invoked by the user to synthesize unreconciled observations into wiki pages in the shared CouchDB store. Not for automatic use.
+---
+
 # pocketchange-reconcile — on-demand memory reconciliation
 
 You have been explicitly invoked by the user to run a reconciliation pass over pocketchange memory. This is an on-demand operation, not automatic.

@@ -1,3 +1,8 @@
+---
+name: pocketchange
+description: Shared agentic memory via CouchDB. Use when starting a task (load relevant pages and recent observations), during a task (write observations about user preferences, project decisions, tool behavior, or any notable fact), or when you need persistent context across sessions.
+---
+
 # pocketchange — shared agentic memory
 
 You have access to a shared CouchDB memory store called **pocketchange**. It is available at `$POCKETCHANGE_URL` (credentials embedded — no `-u` flag needed). The database is named `pocketchange`.
