@@ -1,6 +1,6 @@
 ---
 name: pocketchange
-description: Shared agentic memory via CouchDB. Use when starting a task (load relevant pages and recent observations), during a task (write observations about user preferences, project decisions, tool behavior, or any notable fact), or when you need persistent context across sessions.
+description: Shared agentic memory via CouchDB. ALWAYS invoke proactively at the start of every conversation or request — load relevant pages and recent observations before doing any work. Write observations throughout the session whenever you learn something worth preserving: user preferences, project decisions, tool behavior, or any notable fact.
 ---
 
 # pocketchange — shared agentic memory
